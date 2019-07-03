@@ -1,10 +1,14 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
++ A handy app that gives new users warm and welcoming messages
++ Customize-able messages
++ Open sourced like the millions of wonderful programs here on Github
 
 ## What it does
 
-FEATURES PLACEHOLDER
++ Mentions new @users and greets them
++ Notify other @users whom can embrace the new @users
++ Flexible in terms of customization
 
 ## Getting started
 
